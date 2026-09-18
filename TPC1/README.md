@@ -6,3 +6,4 @@
 *Resultados:*
 
 1 Resolução do nível 10 de maze
+![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
