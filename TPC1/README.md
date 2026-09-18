@@ -16,7 +16,7 @@ Imagem da representação
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/0e69ad939806df13daa669e794fdcf5414294908/TPC1/Barco.png)
 
 Código por blocos tipo Scratch
-![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
+![image alt](https://github.com/ricardomscoelho/ATP2026/blob/6ad303fdf4ed6ce1d63530491f9fd50146f24d71/TPC1/Codigo1.png)
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
