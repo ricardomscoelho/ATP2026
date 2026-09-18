@@ -18,5 +18,5 @@ Imagem da representação
 Código por blocos tipo Scratch
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/6ad303fdf4ed6ce1d63530491f9fd50146f24d71/TPC1/Codigo1.png)
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/a2ebdc5b9b39d7c3a852dc2789e4418fdbb8daaa/TPC1/codigo%202.png)
-![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
+![image alt](https://github.com/ricardomscoelho/ATP2026/blob/d4079cc5fb1ceb33ff3b0c9dc3b5c464629ed9bb/TPC1/codigo%203.png)
 ![image alt](https://github.com/ricardomscoelho/ATP2026/blob/e3e64f241e0309b28c659677da07f98fa053d2d2/TPC1/Resultado%20maze.png)
