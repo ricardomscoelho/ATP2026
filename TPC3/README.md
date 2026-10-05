@@ -7,4 +7,5 @@
 **Descrição** O projeto consite num jogo onde o total começa em 0. O jogador e o computador alternam somando um número de 1 a 10 ao total. Quem atingir exatamente o número 100 vence, mas se o computador jogar primeiro deverá vencer e se o computador jogar em segundo poderá vencer se o outro jogador fizer uma aposta fora da estratégia vencedora. O jogo é implementa com 2 vertentes: o computador joga primeiro (deverá ganhar sempre), e o computador joga em segundo lugar (poderá ganhar ou não dependendo das jogadas do outro).
 
 *Resultados:*
+[TPC3](TPC3.ipynb)
 
