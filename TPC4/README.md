@@ -27,6 +27,7 @@ A aplicação funciona da seguinte forma:
     - Na opção 9, a aplicação irá procurar um elemento na lista, se o encontrar deverá devolver a sua posição, devolverá -1 se o elemento não estiver na lista;
     - Se o utilizador selecionar a opção 0, a aplicação deverá terminar mostrando a lista que está nesse momento guardada.
 
+
 *Resultados:*
 [TPC4](TPC4.ipynb)
 
