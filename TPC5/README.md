@@ -19,5 +19,7 @@ No fim de executar a operação selecionada, a aplicação coloca novamente o me
 
 
 *Resultados:*
+
 Código - [TPC5](TPC5.ipynb)
+
 Turma - [TPC5](turmas.txt)
