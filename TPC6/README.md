@@ -4,8 +4,8 @@
 - Ricardo Coelho
 - A115371
 <img src="https://github.com/ricardomscoelho/ATP2026/blob/c73cc800e16fbe65d278d0d50b4111b4d157f659/autor.jpg" alt="Sample Image" width="100" height="100">
-**Descrição** 
-Criar uma aplicação para a gestão meterologica, nesta aplicação, no monitor aparece o seguinte menu de operações:
+**Descrição**
+  Criar uma aplicação para a gestão meterologica, nesta aplicação, no monitor aparece o seguinte menu de operações:
 
     1: Calcular a temperatura média de cada dia
     2: Guardar a tabela meteorológica num ficheiro
